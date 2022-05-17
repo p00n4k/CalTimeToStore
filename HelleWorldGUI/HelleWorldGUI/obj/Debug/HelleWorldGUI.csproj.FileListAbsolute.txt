@@ -1,0 +1,16 @@
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\bin\Debug\HelleWorldGUI.exe.config
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\bin\Debug\HelleWorldGUI.exe
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\bin\Debug\HelleWorldGUI.pdb
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.csproj.AssemblyReference.cache
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\MainWindow.g.cs
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\App.g.cs
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI_MarkupCompile.cache
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI_MarkupCompile.lref
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\MainWindow.baml
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.g.resources
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.Properties.Resources.resources
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.csproj.GenerateResource.cache
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.exe
+C:\Users\pawin\source\repos\HelleWorldGUI\HelleWorldGUI\obj\Debug\HelleWorldGUI.pdb
